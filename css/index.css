@@ -1,21 +1,39 @@
 *{
-	margin:0;padding:0;box-sizing:border-box;
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
 }
 
 .title{
-	width:75%;margin:auto;color:silver;
+	width:75%;
+	margin:auto;
+	color:silver;
 }
 
 .box{
-	diplay:flex;overflow:hidden;width:80%;margin:10% auto;background-color:rgba(255,255,255,60%);border-radius:1.5rem;
+	diplay:flex;
+	overflow:hidden;
+	width:80%;
+	margin:10% auto;
+	background-color:rgba(255,255,255,60%);
+	border-radius:1.5rem;
 }
 
 html{
-	width:100%;height:100%;font-size:10px;background-image:url(./img/AZL.png) no-repeat;background-size:cover;
+	width:100%;
+	height:100%;
+	font-size:10px;
+	background-image:url(./img/AZL.png) no-repeat;
+	background-size:cover;
 }
 
 html::before{
-	content:'';width:100%;height:100%;position:fixed;z-index:-1;backdrop-filter:blur(1rem);
+	content:'';
+	width:100%;
+	height:100%;
+	position:fixed;
+	z-index:-1;
+	backdrop-filter:blur(1rem);
 }
 
 
