@@ -18,6 +18,6 @@
 	width:50vw
 }
 
-html::before{
+html{
 	content:'';width:100%;height:100%;position:fixed;z-index:-1,background-image:url(./img/AZL.png);
 }
