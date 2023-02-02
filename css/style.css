@@ -1,7 +1,15 @@
 .title{
-	width:75%;margin:auto;color:#555555;
+	width:75%;margin:auto;color:silver;
 }
 
 .subtitle{
-	width:8%;margin-right:10px;
+	width:30%;margin-right:10px;
+}
+
+.article{
+	width:80%;margin:auto
+}
+
+.exam_img{
+	width:50vw
 }
