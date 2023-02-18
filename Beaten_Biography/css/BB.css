@@ -1,0 +1,17 @@
+.box{
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+        }
+
+.box input{
+            width: 80%;
+            height: 100%;
+            margin-bottom: 20px;
+            outline: none;
+            border: 0;
+            padding: 10px;
+            background-color: transparent;
+            border-bottom: 3px solid rgb(150, 150, 240);
+            font: 900 16px '';
+        }
