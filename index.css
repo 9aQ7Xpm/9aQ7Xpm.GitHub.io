@@ -10,7 +10,7 @@
 	color:silver;
 }
 
-box{
+.box{
 	diplay:flex;
 	overflow:hidden;
 	width:80%;
