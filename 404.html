@@ -3,15 +3,61 @@
 <head>
 	<meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<link rel="stylesheet" href="./css/index.css">
 	<title>页面挨揍了……</title>
 	<style>
-		div{
-			width:100%;
-			height:100%;
-			font-size:10px;
-			background-image:url(./img/AZL.png) no-repeat;
-			background-size:cover;
+		*{
+			margin:0;
+			padding:0;
+		}
+		
+		body{
+			display:flex;
+			height:100vh;
+			justify-content:center;
+			align-items:center;
+		}
+			
+		.box{
+			overflow:hidden;
+			width:40vh;
+			height:30vh;
+			border:2px black solid;
+			background-color:#f4f4f4;
+		}
+		
+		.box h1{
+			display:flex;
+			justify-content:center;
+			align-items:center;
+			height:10vh;
+		}
+		
+		.reason{
+			display:flex;
+			justify-content:center;
+			align-items:center;
+			padding:10px;
+			border-radius:10px;
+		}
+		
+		.back{
+			text-align: center;
+			color:black;
+			border-radius: 10px;
+			letter-spacing:3px;
+			display:block;
+			padding:13px;
+			font:900 18px'';
+			width:10vh
+			background-color:#f4f4ff;
 		}
 	</style>
 </head>
+<body>
+	<div class="box">
+		<h1>404</h1>
+		<h2 class="reason">页面挨揍了……</h2>
+		<a href="index" class="back">返回主页</a>
+	</div>
+</body>
+</html>
