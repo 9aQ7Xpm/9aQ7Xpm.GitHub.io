@@ -1,0 +1,103 @@
+*{
+	padding:0;
+	margin:0;
+	}
+
+body{
+	display:flex;
+	background-color:#f4f4f4;
+	background-size:cover;
+	}
+
+.container{
+	align-items:center;
+	}
+
+.top{
+	width:100vh;
+	}
+	
+.information{
+	background-color:#dddddd;
+	width:100vh;
+	height:20vh;
+	}
+	
+.inform_down{
+	float:bottom;
+	height:1vh;
+	width:100vh;
+	background-color:#dddddd;
+	}
+
+.creator{
+	float:left;
+	padding-top:2vh;
+	padding-left:3vh;
+	padding-right:3vh;
+	margin:5px;
+	display:flex;
+	width:15vh;
+	height:15vh;
+	}
+	
+.creator img{
+	margin-left:5vh;
+	margin-right:5vh;
+	border-radius:50vh;
+	}
+	
+.admission{
+	float:left;
+	padding-top:2vh;
+	padding-left:3vh;
+	padding-right:3vh;
+	margin:5px;
+	display:flex;
+	width:15vh;
+	height:15vh;
+	}
+	
+.admission img{
+	margin-left:5vh;
+	margin-right:5vh;
+	border-radius:50vh;
+	}
+	
+.exam{
+	float:left;
+	padding-top:2vh;
+	padding-left:3vh;
+	padding-right:3vh;
+	margin:5px;
+	display:flex;
+	width:15vh;
+	height:15vh;
+	}
+	
+.exam img{
+	margin-left:5vh;
+	margin-right:5vh;
+	border-radius:50vh;
+	}
+	
+.producer{
+	float:left;
+	padding-top:2vh;
+	padding-left:3vh;
+	padding-right:3vh;
+	margin:5px;
+	display:flex;
+	width:15vh;
+	height:15vh;
+	}
+	
+.producer img{
+	margin-left:5vh;
+	margin-right:5vh;
+	border-radius:50vh;
+	}
+	
+.temporary{
+	font:100 150px'';
+	}
