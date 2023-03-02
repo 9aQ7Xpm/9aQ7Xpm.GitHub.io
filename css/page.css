@@ -167,6 +167,21 @@ body{
 	align-items:center;
 	}
 	
+.news h1{
+	margin-top:1.5vh;
+	padding-top:0.5vh;
+	margin-bottom:1.5vh;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	}
+	
+.news h4{
+	margin-left:2vh;
+	margin-right:2vh;
+	display:flex;
+	}
+	
 .news{
 	float:left;
 	margin-top:1vh;
@@ -179,6 +194,7 @@ body{
 	
 .news a{
 	margin-left:2vh;
+	margin-right:2vh;
 	}
 	
 .material{
