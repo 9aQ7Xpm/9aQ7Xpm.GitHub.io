@@ -1,0 +1,41 @@
+.up{
+	background:black;
+	align-items:center;
+	justify-content:center;
+	width:100vh;
+	height:15vh;
+	}
+	
+.icon{
+	float:left;
+	padding-top:2vh;
+	padding-left:3vh;
+	padding-right:3vh;
+	margin:5px;
+	display:flex;
+	width:10vh;
+	height:10vh;
+	}
+	
+.backpage{
+	float:left;
+	display:flex;
+	width:10vh;
+	height:10vh;
+	padding-top:2.5vh;
+	padding-right:2.5vh;
+	justify-content:center;
+	align-items:center;
+	}
+	
+.backpage a{
+	text-decoration:none;
+	align-items:center;
+	justify-content:center;
+	font:100 2.5vh'';
+	color:black;
+	}
+	
+.backpage p{
+	color:white;
+	}

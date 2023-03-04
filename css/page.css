@@ -5,8 +5,9 @@
 
 body{
 	display:flex;
-	background-color:#f4f4f4;
+	background-color:rgba(235, 235, 235);
 	background-size:cover;
+	background-repeat:repeat-y;
 	}
 
 .container{
@@ -18,7 +19,7 @@ body{
 	}
 	
 .information{
-	background-color:#dddddd;
+	background-color:rgba(251, 251, 251,0.5);
 	width:100vh;
 	height:20vh;
 	}
@@ -26,7 +27,7 @@ body{
 .inform_down{
 	height:3vh;
 	width:100vh;
-	background-color:#dddddd;
+	background-color:rgba(251, 251, 251,0.5);
 	padding-bottom:2vh;
 	}
 
@@ -106,7 +107,7 @@ body{
 	display:flex;
 	width:15vh;
 	}
-	
+
 .creator_ p{
 	font:50 2.6vh'';
 	justify-content:center;
@@ -187,7 +188,7 @@ body{
 	margin-top:1vh;
 	margin-left:1vh;
 	width:65vh;
-	background-color:#dddddd;
+	background-color:rgba(251, 251, 251,0.5);
 	border-radius:1vh;
 	padding-bottom:1vh;
 	}
@@ -201,8 +202,8 @@ body{
 	float:left;
 	margin-top:1vh;
 	margin-left:1vh;
-	width:32vh;
-	background-color:#dddddd;
+	width:33vh;
+	background-color:rgba(251, 251, 251,0.5);
 	border-radius:1vh;
 	padding-bottom:1vh;
 	}

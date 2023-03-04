@@ -14,7 +14,7 @@ body{
 	}
 
 .information{
-	background:#dddddd;
+	background:black;
 	align-items:center;
 	justify-content:center;
 	width:100vh;
@@ -41,6 +41,10 @@ body{
 	padding-right:2.5vh;
 	justify-content:center;
 	align-items:center;
+	}
+	
+.backpage p{
+	color:white;
 	}
 	
 .backpage a{
@@ -88,7 +92,7 @@ body{
 	margin-right:1.5vh;
 	margin-bottom:5vh;
 	width:97vh;
-	background:#dddddd;
+	background:rgba(251, 251, 251,0.5);
 	border-radius:1vh;
 	padding-bottom:1vh;
 	}
