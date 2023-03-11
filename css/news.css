@@ -104,11 +104,13 @@ body{
 	
 .news hr{
 	margin-top:1vh;
-	margin-bottom:1vh;
+	margin-bottom:2vh;
 	}
 	
 .news img{
 	display:flex;
+	width:80vh;
+	height:85vh;
 	}
 	
 .time{
