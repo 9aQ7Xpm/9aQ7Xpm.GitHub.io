@@ -39,3 +39,26 @@
 .backpage p{
 	color:white;
 	}
+	
+.backdocument{
+	float:left;
+	display:flex;
+	width:10vh;
+	height:10vh;
+	padding-top:2.5vh;
+	padding-right:2.5vh;
+	justify-content:center;
+	align-items:center;
+	}
+	
+.backdocument a{
+	text-decoration:none;
+	align-items:center;
+	justify-content:center;
+	font:100 2.5vh'';
+	color:black;
+	}
+	
+.backdocument p{
+	color:white;
+	}

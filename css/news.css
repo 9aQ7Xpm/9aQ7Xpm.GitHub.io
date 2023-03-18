@@ -102,6 +102,11 @@ body{
 	margin-right:2vh;
 	}
 	
+.news a{
+	display:flex;
+	text-decoration:none;
+	}
+	
 .news hr{
 	margin-top:1vh;
 	margin-bottom:2vh;
@@ -116,4 +121,16 @@ body{
 .time{
 	font:10 1.5vh'';
 	}
+
+.alt a{
+	text-decoration:none;
+	color:#AFB4AE;
+	}
 	
+.alt p{
+	color:rgba(65, 62, 62);
+	}
+	
+.alt h1{
+	color:black;
+	}
