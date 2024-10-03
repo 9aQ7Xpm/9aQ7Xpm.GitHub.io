@@ -91,12 +91,12 @@ body{
 	border-radius:1vh;
 	}
 	
-.news_right{
-	float:left;
-	width:77vh;
-	background-color:rgba(251, 251, 251,0.5);
-	font-family:"楷体","楷体_GB2312";
-	}
+.news_right {
+	float: left;
+	width: 77vh;
+	background-color: rgba(251, 251, 251, 0.5);
+	font-family: "楷体", "楷体_GB2312";
+}
 	
 .news_left{
 	overflow:hidden;

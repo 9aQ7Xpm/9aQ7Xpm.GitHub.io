@@ -1,0 +1,25 @@
+body{
+    display:flex;
+	background-color:#f4f4f4;
+	background-size:cover;
+	}
+
+body div{
+    align-items:center;
+    justify-content:center;
+    width: 100%;
+    background-color: rgba(251, 251, 251, 0.5);
+    font-family: "楷体", "楷体_GB2312";
+}
+
+body h2{
+    width: 100%;
+    background-color: rgba(251, 251, 251, 0.5);
+    font-family: "楷体", "楷体_GB2312";
+}
+
+body p{
+	width: 100%;
+	background-color: rgba(251, 251, 251, 0.5);
+	font-family: "楷体", "楷体_GB2312";
+}

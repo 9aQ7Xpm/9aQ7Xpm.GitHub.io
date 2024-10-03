@@ -1,0 +1,178 @@
+body{
+	background-color:#f4f4f4;
+	background-size:cover;
+    }
+
+.container{
+    align-items:center;
+    }
+
+ .top_bar{
+    background:black;
+    align-items:center;
+    justify-content:center;
+    width:100%;
+    height: 15vh;
+    }
+        
+.icon{
+    float:left;
+    padding-top:2vh;
+    padding-left:3vh;
+    padding-right:3vh;
+    margin:5px;
+    display:flex;
+    width:10vh;
+    height:10vh;
+    }
+        
+.return{
+    float:left;
+    display:flex;
+    width:10vh;
+    height:10vh;
+    padding-top:2.5vh;
+    padding-right:2.5vh;
+    justify-content:center;
+    align-items:center;
+    }
+        
+.return a{
+    text-decoration:none;
+    align-items:center;
+    justify-content:center;
+    font:100 2.5vh'';
+    color:black;
+    }
+        
+.return p{
+    color:white;
+    }
+
+.creator{
+        float:left;
+        padding-top:2vh;
+        padding-left:3vh;
+        padding-right:3vh;
+        margin:5px;
+        display:flex;
+        width:15vh;
+        height:15vh;
+        }
+        
+.creator img{
+        margin-left:5vh;
+        margin-right:5vh;
+        border-radius:50vh;
+        }
+        
+.admission{
+        float:left;
+        padding-top:2vh;
+        padding-left:3vh;
+        padding-right:3vh;
+        margin:5px;
+        display:flex;
+        width:15vh;
+        height:15vh;
+        }
+        
+.admission img{
+        margin-left:5vh;
+        margin-right:5vh;
+        border-radius:50vh;
+        }
+        
+.exam{
+        float:left;
+        padding-top:2vh;
+        padding-left:3vh;
+        padding-right:3vh;
+        margin:5px;
+        display:flex;
+        width:15vh;
+        height:15vh;
+        }
+        
+.exam img{
+        margin-left:5vh;
+        margin-right:5vh;
+        border-radius:50vh;
+        }
+        
+.producer{
+        float:left;
+        padding-top:2vh;
+        padding-left:3vh;
+        padding-right:3vh;
+        margin:5px;
+        display:flex;
+        width:15vh;
+        height:15vh;
+        }
+        
+    .producer img{
+        margin-left:5vh;
+        margin-right:5vh;
+        border-radius:50vh;
+        }
+        
+    .creator_{
+        float:left;
+        margin-left:5px;
+        padding-left:11vh;
+        padding-right:0vh;
+        display:flex;
+        width:15vh;
+        }
+    
+    .creator_ p{
+        font:50 2.6vh'';
+        justify-content:center;
+        align-items:center;
+        }
+        
+    .admission_{
+        float:left;
+        margin-left:5px;
+        padding-left:6.5vh;
+        padding-right:0vh;
+        display:flex;
+        width:15vh;
+        }
+        
+    .admission_ p{
+        font:50 2.6vh'';
+        justify-content:center;
+        align-items:center;
+        }
+        
+    .exam_{
+        float:left;
+        margin-left:5px;
+        padding-left:7vh;
+        padding-right:0vh;
+        display:flex;
+        width:15vh;
+        }
+        
+    .exam_ p{
+        font:50 2.6vh'';
+        justify-content:center;
+        align-items:center;
+        }
+        
+    .producer_{
+        float:left;
+        margin-left:5px;
+        padding-left:7vh;
+        padding-right:0vh;
+        display:flex;
+        width:15vh;
+        }
+        
+    .producer_ p{
+        font:50 2.6vh'';
+        justify-content:center;
+        align-items:center;
+        }
